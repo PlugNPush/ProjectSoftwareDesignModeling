@@ -2,7 +2,7 @@
 
 ## Console output:
 
-```bash
+```text
 Demonstration of adding a client to a session
 
 
