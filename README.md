@@ -48,5 +48,5 @@ Created evaluation for session Introduction to HTML
 The client is now registered to the course: Introduction to HTML
 [{Jean, Introduction to HTML, confirmed}]
 
-
+Process finished with exit code 0
 ```
